@@ -1,0 +1,74 @@
+#container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100vh;
+}
+
+#cont1 {
+    width: 100px;
+    height: 100vh;
+    background-color: lime;
+
+}
+
+#cont2 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+
+}
+
+#cont21 {
+    width: 100%;
+    height: 15%;
+    background-color: orange;
+}
+
+#cont22 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 20%;
+}
+
+#cont221 {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 100%;
+    background-color: lightgoldenrodyellow;
+}
+
+#cont2221 {
+    width: 100%;
+    height: 50%;
+    background-color: grey;
+}
+
+#cont2222 {
+    width: 100%;
+    height: 50%;
+    background-color: brown;
+}
+
+#cont222 {
+    width: 50%;
+    height: 100%;
+    background-color: yellow;
+}
+
+#cont23 {
+    width: 100%;
+    height: 20%;
+    background-color: blue;
+}
+
+#cont24 {
+    width: 100%;
+    height: 30%;
+    background-color: red;
+}
+
